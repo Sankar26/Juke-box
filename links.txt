@@ -1,0 +1,34 @@
+Bootstrap:
+
+using custom bootstarp: http://stackoverflow.com/questions/25938565/how-to-use-the-bootstrap-config-json-file
+
+http://v4-alpha.getbootstrap.com/components/forms/#form-controls
+
+
+
+CSS:
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://material.google.com/style/color.html#color-color-palette
+
+
+Admin templates:
+
+http://www.cssauthor.com/bootstrap-admin-templates/
+
+
+books ref:
+
+https://support.getresponse.com/whitepapers
+
+
+Plugins:
+
+https://wrapbootstrap.com/theme/material-admin-responsive-dark-skin-WB011H985
+
+
+
+AngularJs:
+http://techfunda.com/Examples/Index/9
+http://www.codeproject.com/Articles/1034593/Angular-js-with-ASP-NET-MVC-Insert-Update-Delete
